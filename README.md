@@ -2,6 +2,10 @@
 
 Official Python API wrapper for the Rapiflash API to allow developers to obtain data from Rapiflash devices around the world
 
+### Install
+
+Simply run `pip install rapiflash` or `sudo pip install rapiflash`
+
 ### Usage
 
 ```
