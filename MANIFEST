@@ -3,3 +3,4 @@ setup.cfg
 setup.py
 rapiflash/__init__.py
 rapiflash/rapiflash.py
+rapiflash/test.py

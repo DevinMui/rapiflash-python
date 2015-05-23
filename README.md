@@ -32,6 +32,13 @@ print rf.find(1)['flooded']
 # returns
 # False
 
+# creating a new record in the database
+
+print rf.create_data(3,5,False,"Las Vegas",11)
+
+# returns
+# {"message":"Resource created"}
+
 ```
 
 ### Columns
