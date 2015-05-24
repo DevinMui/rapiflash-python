@@ -9,7 +9,7 @@ Simply run `pip install rapiflash` or `sudo pip install rapiflash`
 ### Usage
 
 ```
-import rapiflash as rf # includes rapiflash python wrapper
+from rapiflash import rapiflash as rf # includes rapiflash python wrapper
 
 # get 1000 of the latest records from the API
 
